@@ -1,0 +1,36 @@
+div{
+    color: white;
+    border: 1px solid #833ae0;
+    border-radius: 10px;
+    width: 313px;
+    height: 198px;
+    padding: 0px 0px 0px 14px;
+    margin: 10px;
+    background-color: #833ae0;
+}
+img{
+    padding: 34px 0px 0px;
+    margin-left: -5px;
+}
+#num{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin: -4px 0px 0px 0px;
+}
+#name{
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 0px;
+    margin: 0px;
+}
+#val{
+    font-family: 'Tahoma', sans-serif;
+    font-size: 9px;
+    margin: 15px 0px 0px;
+}
+#date{
+    font-family: 'Tahoma', sans-serif;
+    font-size: 16px;
+    margin-top: 0px;
+}
